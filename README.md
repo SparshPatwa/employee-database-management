@@ -21,6 +21,8 @@
 💾 npm install console.table
 
 ## Usage
+💻 source schema.sql  
+💻 source seeds.sql  
 💻 node portal
 
 ## License
