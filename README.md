@@ -16,8 +16,8 @@
 - [Questions](#questions)
 
 ## Installation
-💾 npm install mysql2
-💾 npm install inquirer
+💾 npm install mysql2  
+💾 npm install inquirer  
 💾 npm install console.table
 
 ## Usage
